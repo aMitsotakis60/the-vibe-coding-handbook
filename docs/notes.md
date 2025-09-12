@@ -6,3 +6,4 @@ Notes and usage details for the-vibe-coding-handbook.
 - add a note about the defaults
 - fix a small wording issue
 - clarify the setup steps
+- fix a small wording issue
