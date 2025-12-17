@@ -11,3 +11,4 @@ Notes and usage details for the-vibe-coding-handbook.
 - link the usage section
 - link the usage section
 - fix a small wording issue
+- fix a small wording issue
